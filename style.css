@@ -1,0 +1,37 @@
+
+
+video{
+   position: fixed;
+   top: 50%;
+   left: 50%;
+   margin-top: -400px;
+   margin-left: -900px;
+   width: 1583px;
+   z-index: 1;
+}
+div{
+    position: relative;
+    z-index: 2;
+    margin: 0 auto;
+    max-width: 400px;
+    text-align: center;
+    margin-top:250px;
+    background-color: grey;
+    border-radius:10px;
+    opacity: 0.8;
+}
+
+h1{
+   font-size:30px;
+}
+a{
+   font-size: 15px;
+  display:inline-block;
+  padding:10px;
+  border: 1px solid white;
+  text-decoration: none;
+  color: blue;
+}
+p{
+   font-size:25px;
+}
